@@ -1,1 +1,1 @@
-DB_PASSWORD = "github_pat_4rfdascda"
+apify_integration_api_token = "github_pat_4rfdascda"
