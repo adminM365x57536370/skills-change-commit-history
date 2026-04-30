@@ -1,1 +1,1 @@
-API_KEY = "github_pat_4rfdascda"
+DB_PASSWORD = "github_pat_4rfdascda"
